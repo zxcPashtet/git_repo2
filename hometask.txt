@@ -1,1 +1,20 @@
-ветка demo ничем не отличается от ветки master
+Ветка demo ничем не отличается от ветки master
+В ветке boots_buttons 7 коммитов:
+    init
+    boots
+    README added
+    dots
+    fix readme
+    Merge remote-tracking branch 'Pashtet/boots' into boots_buttons
+    Merge remote-tracking branch 'Pashtet/buttons' into boots_buttons
+В ветке master 10 коммитов:
+    init
+    heat added
+    boots
+    README added
+    dots
+    fix readme
+    Merge remote-tracking branch 'Pashtet/boots' into boots_buttons
+    Merge remote-tracking branch 'Pashtet/buttons' into boots_buttons
+    Merge remote-tracking branch 'Pashtet/hat'
+    hometask.txt
